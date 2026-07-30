@@ -56,7 +56,7 @@
 
 ### ⚙️ Hướng Dẫn Cài Đặt & Chạy
 
-  - 1. Clone Repository: git clone https://github.com/vanviet22/Chatbot_TroChuyenHoTroTamLy.git
+  - 1. Clone Repository: git clone https://github.com/ChiNguyenLy/Chatbot_TroChuyenHoTroTamLy.git
 
     + cd Chatbot_TroChuyenHoTroTamLy
 
